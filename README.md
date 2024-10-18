@@ -22,7 +22,7 @@ Users can also use their own dataset by modifying the `data_loader.py` script.
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Moshintha20/Multi-Layer-Perceptron-MLP-Model-for-Binary-Classification
    cd Multi-Layer-Perceptron-MLP-Binary-Classification
    ```
 
