@@ -66,10 +66,3 @@ Using a synthetic dataset for binary classification, the model achieved over 90%
 ## How to Customize
 - Modify `main.py` to adjust the model architecture (e.g., add more hidden layers or neurons).
 - Replace the synthetic dataset with a custom dataset in `data_loader.py` to train the model on real-world data.
-
-## Requirements
-Install the following Python dependencies:
-```txt
-numpy
-matplotlib
-```
