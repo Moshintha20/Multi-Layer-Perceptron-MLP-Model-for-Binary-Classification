@@ -13,10 +13,6 @@ The project provides a hands-on understanding of how neural networks work at a l
 - **Loss Function**: Binary cross-entropy for computing the model’s error.
 - **Optimizer**: Gradient descent algorithm implemented from scratch.
 
-## Dataset
-The model is trained on a synthetic dataset generated using NumPy, which is included as an example. The dataset contains two classes, represented as 0 and 1, for training and testing the binary classification model.
-
-Users can also use their own dataset by modifying the `data_loader.py` script.
 
 ## Model Architecture
 
